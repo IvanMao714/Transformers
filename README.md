@@ -33,5 +33,5 @@ import transformers
 
 ## 教程内容
 
-1. [pipeline的使用](turtorial\pipeline\doc.md)
+1. [pipeline的使用](.\turtorial\pipeline\doc.md)
    
