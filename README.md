@@ -33,11 +33,10 @@ import transformers
 
 ## 教程内容
 
-<<<<<<< HEAD
 1. [pipeline的使用](turtorial\1 pipeline\doc.md)
+
 2. [AutoModel的基本使用](turtorial\2 AutoModel的基本使用\doc.md)
-3. 
-=======
-1. [pipeline的使用](.\turtorial\pipeline\doc.md)
-   
->>>>>>> e122515aada067698b4a7f5010e4b46c097c7ebc
+
+3. [Tokenizer](.\turtorial\3 Tokenizer\doc.md)
+
+  
