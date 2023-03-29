@@ -33,9 +33,9 @@ import transformers
 
 ## 教程内容
 
-1. [pipeline的使用](turtorial/1 pipeline\doc.md)
+1. [pipeline的使用](./turtorial/1 pipeline\doc.md)
 
-2. [AutoModel的基本使用](turtorial/2 AutoModel的基本使用/doc.md)
+2. [AutoModel的基本使用](./turtorial/2 AutoModel的基本使用/doc.md)
 
 3. [Tokenizer](./turtorial/3 Tokenizer/doc.md)
 
