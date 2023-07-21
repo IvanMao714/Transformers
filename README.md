@@ -32,9 +32,9 @@ import transformers
 ```
 
 ## 教程内容
-- ![pipeline的使用](./turtorial/1 pipeline/doc.md)
-- ![AutoModel的基本使用](./turtorial/2 AutoModel的基本使用/doc.md)
-- ![pipeline的使用](./turtorial/1 pipeline/doc.md)
-- ![AutoModel的基本使用](./turtorial/2 AutoModel的基本使用/doc.md)
-- ![Dataset](./turtorial/5 Dataset/doc.md)
+- [pipeline的使用](./turtorial/1pipeline/doc.md)
+- [AutoModel的基本使用](./turtorial/2AutoModel的基本使用/doc.md)
+- [Tokenizer的使用](./turtorial/3Tokenizer/doc.md)
+- [Multiple_sequences的基本使用](./turtorial/4Multiple_sequences/doc.md)
+- [Dataset](./turtorial/5Dataset/doc.md)
 
